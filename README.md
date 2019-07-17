@@ -7,7 +7,7 @@ Data Lake Structural Design. Big Data Technologies used Spark, Hive, HBase, Sqoo
 You’ll start by clone of project
 
 1. Download project
-	git clone https://gabrielhernandezneves@bitbucket.org/gabrielhernandezneves/datalake-bigdata-spark-360.git
+	git clone https://github.com/gabrielhernandezsilvaneves/datalake-bigdata-spark-360.git
 2. Build de project
 	mvn clean install
 3. Take the .jar project and voilá
