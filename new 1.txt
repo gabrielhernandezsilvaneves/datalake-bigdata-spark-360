@@ -1,0 +1,8 @@
+spark = 2.3
+kafka = 3.0.0
+flume = 1.6 ( confirmar )
+sqoop = (confirmar )
+
+
+
+Java/Scala
